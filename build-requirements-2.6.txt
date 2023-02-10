@@ -8,3 +8,4 @@ unittest2
 hypothesis<3
 coverage
 mock==2.0.0
+cryptography>=39.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
